@@ -33,3 +33,6 @@ install_manifest.txt
 *.dylib
 *.cmake
 *.pc
+*.so
+*.so.2
+*.so.2.2.0
